@@ -1,10 +1,10 @@
 # PHP frameworks
 
-A curated list of PHP frameworks.
+A curated list of 21 PHP frameworks.
 
 ## Contributing
 
-See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/master/CONTRIBUTING.md), to add or update a listing.
+See [CONTRIBUTING](https://github.com/exakat/php-frameworks/blob/master/CONTRIBUTING.md), to add or update a listing.
 
 ## PHP Framework list
 

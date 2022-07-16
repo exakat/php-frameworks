@@ -1,0 +1,15 @@
+<?php
+
+$file = file_get_contents('README.md');
+
+$count = preg_match_all('/\[\*\*.+?\*\*\]\(/', $file, $r);
+
+print $count." framework found\n";
+
+if (!preg_match('/A curated list of '.$count.' PHP frameworks/m', $file)) {
+	print "Check the number of frameworks in the README\n";
+} else {
+	print "Counts of framework is OK\n";
+}
+
+?>
