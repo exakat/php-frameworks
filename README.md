@@ -1,6 +1,6 @@
 # PHP frameworks
 
-A curated list of 71 PHP frameworks.
+A curated list of 72 PHP frameworks.
 
 ## Contributing
 
@@ -34,7 +34,6 @@ In alphabetical order.
 	+ [**Flextype**](https://github.com/flextype/flextype) : Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS
 	+ [**Flight**](https://flightphp.com/) : Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.
 	+ [**Flow**](https://flow.neos.io/) : PHP web application framework focussed on Domain-Driven Design and clean code.
-	+ [**Framework X**](https://framework-x.org/) : Framework X : async made easy
 	+ [**FuelPHP**](https://fuelphp.com/) : a fast, simple and flexible PHP 5.4+ framework, born from the best ideas of other frameworks, with a fresh start!
 + **G**
 	+ [**GlowyPHP**](https://awilum.github.io/glowyphp/) : A set of decoupled and reusable PHP building blocks for kickass Web Applications
@@ -89,6 +88,7 @@ In alphabetical order.
 	+ [**Symfony**](https://symfony.com/) : Symfony is a set of reusable PHP components and a PHP framework to build web applications, APIs, microservices and web services
 + **T**
 	+ [**ThinkPHP**](https://www.thinkphp.cn/) : ThinkPHP框架 - 是由上海顶想公司开发维护的MVC结构的开源PHP框架，遵循Apache2开源协议发布，是为了敏捷WEB应用开发和简化企业应用开发而诞生的。
+	+ [**Trongate**](https://github.com/trongate/trongate-framework.git) : Break the rules use Trongate
 	+ [**Typo3**](https://typo3.org/) : the Professional, Flexible Content Management System
 + **U**
 	+ [**UserFrosting**](https://github.com/userfrosting/UserFrosting.git) UserFrosting is a secure, modern user management system written in PHP and built on top of the Slim Microframework, Twig templating engine, and Eloquent ORM.
