@@ -102,3 +102,6 @@ In alphabetical order.
 	+ [**Zikula**](https://ziku.la/en/) : build simple one-page websites to individual web applications utilising different types of extensions for making your project to something special.
 
 
+# Publication
+
+Originally published on [Exakat](https://www.exakat.io/en/php-framework-list/).
