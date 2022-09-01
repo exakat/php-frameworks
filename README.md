@@ -1,6 +1,6 @@
 # PHP frameworks
 
-A curated list of 66 PHP frameworks.
+A curated list of 69 PHP frameworks.
 
 ## Contributing
 
@@ -31,16 +31,19 @@ In alphabetical order.
 + **F**
 	+ [**Fatfree**](https://fatfreeframework.com/3.8/home) : powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust web applications - fast!
 	+ [**FeastFramework**](https://github.com/FeastFramework/framework) : Fast, Easy, Agile, Slim, Tested and Trans-Fat Free.
+	+ [**Flextype**](https://github.com/flextype/flextype) : Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS
 	+ [**Flight**](https://flightphp.com/) : Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.
 	+ [**Flow**](https://flow.neos.io/) : PHP web application framework focussed on Domain-Driven Design and clean code.
 	+ [**Framework X**](https://framework-x.org/) : Framework X : async made easy
 	+ [**FuelPHP**](https://fuelphp.com/) : a fast, simple and flexible PHP 5.4+ framework, born from the best ideas of other frameworks, with a fresh start!
 + **G**
-	+ [**Grave**](https://getgrav.org/) : Grav is a modern open source flat-file CMS
+	+ [**GlowyPHP**](https://awilum.github.io/glowyphp/) : A set of decoupled and reusable PHP building blocks for kickass Web Applications
+	+ [**Grav**](https://getgrav.org/) : Grav is a modern open source flat-file CMS
 + **I**
 	+ [**Ice Framework**](https://www.iceframework.org/) : Ice - simple, fast and open-source PHP framework frozen in C-extension.
 + **J**
 	+ [**Joomla**](https://www.joomla.org/) : The Flexible Platform Empowering Website Creators
+	+ [**Jelix**](https://github.com/jelix/jelix) : Jelix 2 is an open-source framework for PHP. 
 + **K**
 	+ [**Koseven**](https://github.com/koseven/koseven/) : Koseven is an elegant, open source, and object oriented HMVC framework built using PHP7, by a team of volunteers. (Based on Kohana, which is now deprecated)
 + **L**
