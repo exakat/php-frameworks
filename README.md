@@ -52,7 +52,7 @@ In alphabetical order.
 	+ [**lightmvc**](https://lightmvcframework.net/) : very modular, event-driven and Swoole-enabled framework!
 	+ [**limonade**](https://limonade-php.github.io/) :  Limonade is a PHP micro framework for rapid web development and prototyping.
 	+ [**lithium**](https://li3.me/) :  fast, flexible and most RAD development framework for PHP
-	+ [**lumen**](https://lumen.laravel.com/docs/9.x) : 
+	+ [**lumen**](https://lumen.laravel.com/docs/9.x) : Lumen is an open-source PHP micro-framework created by Taylor Otwell as an alternative to Laravel to meet the demand of lightweight installations.
 + **M**
 	+ [**Melis**](https://www.melistechnology.com/) : The 1st Open Source Cross-Framework Digital Platform 
 	+ [**Meedoo**](https://medoo.in/) : The Lightweight PHP Database Framework to Accelerate Development
@@ -63,6 +63,7 @@ In alphabetical order.
 	+ [**Oro inc**](https://oroinc.com/) : Oro revolutionizes your business with B2B eCommerce Software and CRM.
 + **P**
 	+ [**Phalcon**](https://phalcon.io/en-us) : A full-stack PHP framework delivered as a C-extension
+	+ [**PHP-deamon**](https://github.com/kakserpom/phpdaemon) : Asynchronous framework in PHP. It has a huge number of features. Designed for highload. 
 	+ [**PHP-express**](https://github.com/riverside/php-express.git) : PHP micro-framework inspired by Express.js	+ [**Pixie**](https://phalcon.io/en-us) : The modern component base PHP framework
 	+ [**Pixie**](https://phalcon.io/en-us) : The modern component base PHP framework
 	+ [**Prado**](http://www.pradoframework.net/site/) : PRADOTM is a component-based and event-driven programming framework for developing Web applications in PHP
@@ -99,6 +100,7 @@ In alphabetical order.
 	+ [**YAR**](https://www.php.net/manual/en/book.yar.php) :  Yar is a RPC framework which aims to provide a simple and easy way to do communication between PHP applications It has the ability to concurrently call multiple remote services. 
 + **Z**
 	+ [**Zend Framework**](https://framework.zend.com/) : Zend Framework is now the Laminas Project!
+	+ [**Zest Framework**](https://github.com/zestframework/Zest) : Zest is a very light-weight PHP framework without any dependencies except core and autoloader.
 	+ [**Zikula**](https://ziku.la/en/) : build simple one-page websites to individual web applications utilising different types of extensions for making your project to something special.
 
 
