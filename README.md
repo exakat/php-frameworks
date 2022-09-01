@@ -38,7 +38,9 @@ In alphabetical order.
 	+ [**FuelPHP**](https://fuelphp.com/) : a fast, simple and flexible PHP 5.4+ framework, born from the best ideas of other frameworks, with a fresh start!
 + **G**
 	+ [**GlowyPHP**](https://awilum.github.io/glowyphp/) : A set of decoupled and reusable PHP building blocks for kickass Web Applications
-	+ [**Grav**](https://getgrav.org/) : Grav is a modern open source flat-file CMS
+	+ [**Grav**](https://www.horde.org/) : Grav is a modern open source flat-file CMS
++ **H**
+	+ [**Horde**](https://www.iceframework.org/) : The Horde Application Framework is a general-purpose web application framework in PHP,
 + **I**
 	+ [**Ice Framework**](https://www.iceframework.org/) : Ice - simple, fast and open-source PHP framework frozen in C-extension.
 	+ [**Ibexa**](https://www.ibexa.co/) : Ibexa Digital Experience Platform (DXP) helps B2B companies to transform traditional sales strategies into frictionless buying experiences
