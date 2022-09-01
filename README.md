@@ -1,6 +1,6 @@
 # PHP frameworks
 
-A curated list of 69 PHP frameworks.
+A curated list of 71 PHP frameworks.
 
 ## Contributing
 
@@ -41,6 +41,7 @@ In alphabetical order.
 	+ [**Grav**](https://getgrav.org/) : Grav is a modern open source flat-file CMS
 + **I**
 	+ [**Ice Framework**](https://www.iceframework.org/) : Ice - simple, fast and open-source PHP framework frozen in C-extension.
+	+ [**Ibexa**](https://www.ibexa.co/) : Ibexa Digital Experience Platform (DXP) helps B2B companies to transform traditional sales strategies into frictionless buying experiences
 + **J**
 	+ [**Joomla**](https://www.joomla.org/) : The Flexible Platform Empowering Website Creators
 	+ [**Jelix**](https://github.com/jelix/jelix) : Jelix 2 is an open-source framework for PHP. 
@@ -102,11 +103,18 @@ In alphabetical order.
 	+ [**Yaf**](https://www.php.net/manual/en/book.yaf.php) :  The Yet Another Framework (Yaf) extension is a PHP framework that is used to develop web applications. 
 	+ [**YAR**](https://www.php.net/manual/en/book.yar.php) :  Yar is a RPC framework which aims to provide a simple and easy way to do communication between PHP applications It has the ability to concurrently call multiple remote services. 
 + **Z**
-	+ [**Zend Framework**](https://framework.zend.com/) : Zend Framework is now the Laminas Project!
 	+ [**Zest Framework**](https://github.com/zestframework/Zest) : Zest is a very light-weight PHP framework without any dependencies except core and autoloader.
 	+ [**Zikula**](https://ziku.la/en/) : build simple one-page websites to individual web applications utilising different types of extensions for making your project to something special.
 
+## Retired 
+
+Some framework which are now retired : either renamed, or discontinued. This is to prevent repeated attempts at adding them in the above list, not a life/death certificate.
+
++ [Ez platform](https://ez.no) : Turned ibexo
++ [Xataface](http://xataface.com/)
++ [Zend Framework](https://framework.zend.com/) : Zend Framework is now the Laminas Project!
 
 # Publication
 
 Originally published on [Exakat](https://www.exakat.io/en/php-framework-list/).
+
