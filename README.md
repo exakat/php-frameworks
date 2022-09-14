@@ -1,6 +1,6 @@
 # PHP frameworks
 
-A curated list of 72 PHP frameworks.
+A curated list of 77 PHP frameworks.
 
 ## Contributing
 
@@ -15,6 +15,7 @@ In alphabetical order.
 	+ [**Aura**](https://auraphp.com/) Advanced tools for advanced applications.
 + **B**
 	+ [**B2evolution**](https://b2evolution.net/) : b2evolution includes everything you need to build websites for sharing and interacting with your community.
+	+ [**Bludit**](https://www.bludit.com/) : Create your own Website or Blog in seconds, Simple, Fast, Secure, Flat-File CMS
 	+ [**bullet PHP**](http://bulletphp.com/) : Bullet is a functional PHP micro-framework that helps you easily create REST APIs and web applications that automatically conform to the requirements of the HTTP specification.
 + **C**
 	+ [**Cakephp**](https://cakephp.org/) : Build fast, grow solid | PHP Framework
@@ -59,6 +60,7 @@ In alphabetical order.
 	+ [**lithium**](https://li3.me/) :  fast, flexible and most RAD development framework for PHP
 	+ [**lumen**](https://lumen.laravel.com/docs/9.x) : Lumen is an open-source PHP micro-framework created by Taylor Otwell as an alternative to Laravel to meet the demand of lightweight installations.
 + **M**
+	+ [**Magix-cms**](https://github.com/magix-cms/magixcms-3) : Magix CMS dans sa version 3, incluant une nouvelle librairie et de nouvelles fonctionnalités.
 	+ [**Melis**](https://www.melistechnology.com/) : The 1st Open Source Cross-Framework Digital Platform 
 	+ [**Meedoo**](https://medoo.in/) : The Lightweight PHP Database Framework to Accelerate Development
 	+ [**ModX**](https://modx.com/) : The CMS for Business, Not Bloggers
@@ -80,14 +82,16 @@ In alphabetical order.
 + **S**
 	+ [**Silex**](https://github.com/silexphp/Silex) : Silex, a simple Web Framework
 	+ [**Silverstripe**](https://www.silverstripe.org/) : Silverstripe CMS is the intuitive content management system and flexible framework loved by editors and developers alike.
+	+ [**SimpleMVC**](https://github.com/simplemvc/framework.git) : SimpleMVC is an MVC framework for PHP based on the KISS principle.
 	+ [**Simple PHP framework**](https://github.com/johnsonfash/simple-php-framework.git) : Simple php framework is a light weight (< 1mb), expressive, easy to configure, and less ambiguous framework. 
-	+ [**Slim**](https://www.slimframework.com/) : Symfony is a set of reusable PHP components and a PHP framework to build web applications, APIs, microservices and web services
+	+ [**Slim**](https://www.slimframework.com/) : Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. 
 	+ [**Smart Framework**](https://github.com/unix-world/Smart.Framework) : practical, modern and high performance PHP / JavaScript Framework for Web featuring Middlewares + MVC.
 	+ [**Spiral Framework**](https://spiral.dev/) : High-Performance PHP/Go Framework
 	+ [**Stupidly Simple Framework**](https://stupidlysimple.github.io/) An MVC Framework based on PHP, built for rapid development
 	+ [**Symfony**](https://symfony.com/) : Symfony is a set of reusable PHP components and a PHP framework to build web applications, APIs, microservices and web services
 + **T**
 	+ [**ThinkPHP**](https://www.thinkphp.cn/) : ThinkPHP框架 - 是由上海顶想公司开发维护的MVC结构的开源PHP框架，遵循Apache2开源协议发布，是为了敏捷WEB应用开发和简化企业应用开发而诞生的。
+	+ [**Tine**](https://www.tine-groupware.de/) : Mehr als nur Groupware
 	+ [**Trongate**](https://github.com/trongate/trongate-framework.git) : Break the rules use Trongate
 	+ [**Typo3**](https://typo3.org/) : the Professional, Flexible Content Management System
 + **U**
@@ -107,6 +111,7 @@ In alphabetical order.
 + **Z**
 	+ [**Zest Framework**](https://github.com/zestframework/Zest) : Zest is a very light-weight PHP framework without any dependencies except core and autoloader.
 	+ [**Zikula**](https://ziku.la/en/) : build simple one-page websites to individual web applications utilising different types of extensions for making your project to something special.
+	+ [**Z-PHP**](http://www.z-php.com/) : PHP 7,8 快速 简洁 安全 易用
 
 ## Retired 
 
