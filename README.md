@@ -26,9 +26,11 @@ In alphabetical order.
 	+ [**crossPHP**](https://www.crossphp.com/#home) : API优先
 + **D**
 	+ [**Drupal**](https://www.drupal.org/) : the best digital experience platform(DXP) on the web, proudly open source.
+	+ [**DuckPHP**](https://github.com/dvaknheo/duckphp.git) : the best digital experience platform(DXP) on the web, proudly open source.
 + **E**
 	+ [**e107**](https://e107.org/) : Functionality For Every Occasion
 	+ [**elephpantCMS**](https://github.com/jbroadway/elefant.git) : Functionality For Every Occasion
+	+ [**elephox**](https://elephox.dev/) : A type-safe PHP framework
 + **F**
 	+ [**Fatfree**](https://fatfreeframework.com/3.8/home) : powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust web applications - fast!
 	+ [**FeastFramework**](https://github.com/FeastFramework/framework) : Fast, Easy, Agile, Slim, Tested and Trans-Fat Free.
@@ -39,12 +41,14 @@ In alphabetical order.
 + **G**
 	+ [**GlowyPHP**](https://awilum.github.io/glowyphp/) : A set of decoupled and reusable PHP building blocks for kickass Web Applications
 	+ [**Grav**](https://www.horde.org/) : Grav is a modern open source flat-file CMS
+	+ [**GuppyCMS**](https://www.freeguppy.org/) : GuppY, le CMS de référence sans base de données.
 + **H**
 	+ [**Horde**](https://www.iceframework.org/) : The Horde Application Framework is a general-purpose web application framework in PHP,
 + **I**
 	+ [**Ice Framework**](https://www.iceframework.org/) : Ice - simple, fast and open-source PHP framework frozen in C-extension.
 	+ [**Ibexa**](https://www.ibexa.co/) : Ibexa Digital Experience Platform (DXP) helps B2B companies to transform traditional sales strategies into frictionless buying experiences
 + **J**
+	+ [**Jaws**](http://jaws-project.com) : Jaws is a Framework and Content Management System for building dynamic web sites.
 	+ [**Joomla**](https://www.joomla.org/) : The Flexible Platform Empowering Website Creators
 	+ [**Jelix**](https://github.com/jelix/jelix) : Jelix 2 is an open-source framework for PHP. 
 + **K**
