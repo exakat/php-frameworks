@@ -1,6 +1,6 @@
 # PHP frameworks
 
-A curated list of 81 PHP frameworks.
+A curated list of 83 PHP frameworks.
 
 ## Contributing
 
@@ -39,6 +39,7 @@ In alphabetical order.
 	+ [**Flow**](https://flow.neos.io/) : PHP web application framework focussed on Domain-Driven Design and clean code.
 	+ [**FuelPHP**](https://fuelphp.com/) : a fast, simple and flexible PHP 5.4+ framework, born from the best ideas of other frameworks, with a fresh start!
 + **G**
+	+ [**GetSimple**](http://get-simple.info/) : The Simplest Content Management System. Ever.
 	+ [**GlowyPHP**](https://awilum.github.io/glowyphp/) : A set of decoupled and reusable PHP building blocks for kickass Web Applications
 	+ [**Grav**](https://www.horde.org/) : Grav is a modern open source flat-file CMS
 	+ [**GuppyCMS**](https://www.freeguppy.org/) : GuppY, le CMS de référence sans base de données.
@@ -99,6 +100,7 @@ In alphabetical order.
 	+ [**Trongate**](https://github.com/trongate/trongate-framework.git) : Break the rules use Trongate
 	+ [**Typo3**](https://typo3.org/) : the Professional, Flexible Content Management System
 + **U**
+	+ [**Ubiquity**](https://github.com/phpMv/ubiquity.git) Ubiquity, a powerful and fast framework for efficient design.
 	+ [**UserFrosting**](https://github.com/userfrosting/UserFrosting.git) UserFrosting is a secure, modern user management system written in PHP and built on top of the Slim Microframework, Twig templating engine, and Eloquent ORM.
 + **V**
 	+ [**Vanilla**](https://github.com/vanilla/vanilla) : Vanilla was born out of the desire to create flexible, customizable, and downright entertaining community solutions.
