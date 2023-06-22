@@ -14,6 +14,7 @@ In alphabetical order.
 	+ [**Agavi**](https://github.com/agavi/agavi) : Agavi is a powerful, scalable PHP5 application framework that follows the MVC paradigm
 	+ [**Aura**](https://auraphp.com/) Advanced tools for advanced applications.
 + **B**
+	+ [**Banshee**](https://www.banshee-php.org/) : the secure PHP framework.
 	+ [**B2evolution**](https://b2evolution.net/) : b2evolution includes everything you need to build websites for sharing and interacting with your community.
 	+ [**Bludit**](https://www.bludit.com/) : Create your own Website or Blog in seconds, Simple, Fast, Secure, Flat-File CMS
 	+ [**bullet PHP**](http://bulletphp.com/) : Bullet is a functional PHP micro-framework that helps you easily create REST APIs and web applications that automatically conform to the requirements of the HTTP specification.
@@ -36,6 +37,7 @@ In alphabetical order.
 	+ [**FeastFramework**](https://github.com/FeastFramework/framework) : Fast, Easy, Agile, Slim, Tested and Trans-Fat Free.
 	+ [**Flextype**](https://github.com/flextype/flextype) : Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS
 	+ [**Flight**](https://flightphp.com/) : Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications.
+	+ [**Flourish**](https://flourishlib.com/) : PHP web application framework focussed on Domain-Driven Design and clean code.
 	+ [**Flow**](https://flow.neos.io/) : PHP web application framework focussed on Domain-Driven Design and clean code.
 	+ [**FuelPHP**](https://fuelphp.com/) : a fast, simple and flexible PHP 5.4+ framework, born from the best ideas of other frameworks, with a fresh start!
 + **G**
@@ -63,6 +65,7 @@ In alphabetical order.
 	+ [**lightmvc**](https://lightmvcframework.net/) : very modular, event-driven and Swoole-enabled framework!
 	+ [**limonade**](https://limonade-php.github.io/) :  Limonade is a PHP micro framework for rapid web development and prototyping.
 	+ [**lithium**](https://li3.me/) :  fast, flexible and most RAD development framework for PHP
+	+ [**lucinda**](https://www.lucinda-framework.com/) :Lucinda: Modular Ultra-High Performance PHP Framework.
 	+ [**lumen**](https://lumen.laravel.com/docs/9.x) : Lumen is an open-source PHP micro-framework created by Taylor Otwell as an alternative to Laravel to meet the demand of lightweight installations.
 + **M**
 	+ [**Magix-cms**](https://github.com/magix-cms/magixcms-3) : Magix CMS dans sa version 3, incluant une nouvelle librairie et de nouvelles fonctionnalités.
@@ -124,6 +127,7 @@ In alphabetical order.
 Some framework which are now retired : either renamed, or discontinued. This is to prevent repeated attempts at adding them in the above list, not a life/death certificate.
 
 + [Ez platform](https://ez.no) : Turned ibexo
++ [Flourish](https://flourishlib.com/)
 + [Xataface](http://xataface.com/)
 + [Zend Framework](https://framework.zend.com/) : Zend Framework is now the Laminas Project!
 
