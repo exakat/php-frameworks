@@ -21,6 +21,7 @@ In alphabetical order.
 + **C**
 	+ [**Cakephp**](https://cakephp.org/) : Build fast, grow solid | PHP Framework
 	+ [**Cappucino**](https://www.cappuccino.dev/) : Cappuccino is an open source framework that makes it easy to build desktop-caliber applications that run in a web browser. 
+	+ [**chubbyPHP**](https://github.com/chubbyphp/chubbyphp-framework.git) : A minimal, highly performant middleware PSR-15 microframework built with as little complexity as possible, aimed primarily at those developers who want to understand all the vendors they use.
 	+ [**codeigniter**](https://www.codeigniter.com/) : The small framework with powerful features
 	+ [**concrete**](https://www.concretecms.org/) : Do you want a CMS that both developers and editors love?
 	+ [**contao**](https://contao.org/en) : Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications
@@ -31,7 +32,7 @@ In alphabetical order.
 + **E**
 	+ [**e107**](https://e107.org/) : Functionality For Every Occasion
 	+ [**elephpantCMS**](https://github.com/jbroadway/elefant.git) : Functionality For Every Occasion
-	+ [**elephox**](https://elephox.dev/) : A type-safe PHP framework
+	+ [**elephox**](https://github.com/elephox-dev/) : A type-safe PHP framework
 + **F**
 	+ [**Fatfree**](https://fatfreeframework.com/3.8/home) : powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust web applications - fast!
 	+ [**FeastFramework**](https://github.com/FeastFramework/framework) : Fast, Easy, Agile, Slim, Tested and Trans-Fat Free.
@@ -59,7 +60,7 @@ In alphabetical order.
 + **L**
 	+ [**Laminas**](https://getlaminas.org/) : Laminas Project, the enterprise-ready PHP Framework and components
 	+ [**Laravel**](https://laravel.com/) : The PHP Framework for Web Artisans
-	+ [**Laravel-zero**](https://laravel-zero.com/) : Micro-framework for console applications
+	+ [**Laravel-zero**](https://github.com/laravel-zero/laravel-zero) : Micro-framework for console applications
 	+ [**leafPHP**](https://leafphp.dev/) : Simple and elegant PHP 
 	+ [**light-php**](https://bakeiro.github.io/Light-PHP-documentation/) : open-source minimal PHP framework that only includes what's necessary
 	+ [**lightmvc**](https://lightmvcframework.net/) : very modular, event-driven and Swoole-enabled framework!
@@ -79,7 +80,7 @@ In alphabetical order.
 + **P**
 	+ [**Phalcon**](https://phalcon.io/en-us) : A full-stack PHP framework delivered as a C-extension
 	+ [**PHP-deamon**](https://github.com/kakserpom/phpdaemon) : Asynchronous framework in PHP. It has a huge number of features. Designed for highload. 
-	+ [**PHP-express**](https://github.com/riverside/php-express.git) : PHP micro-framework inspired by Express.js	+ [**Pixie**](https://phalcon.io/en-us) : The modern component base PHP framework
+	+ [**PHP-express**](https://github.com/riverside/php-express.git) : PHP micro-framework inspired by Express.js	
 	+ [**Pixie**](https://phalcon.io/en-us) : The modern component base PHP framework
 	+ [**Prado**](http://www.pradoframework.net/site/) : PRADOTM is a component-based and event-driven programming framework for developing Web applications in PHP
 + **Q**
