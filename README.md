@@ -41,6 +41,7 @@ In alphabetical order.
 	+ [**Flourish**](https://flourishlib.com/) : PHP web application framework focussed on Domain-Driven Design and clean code.
 	+ [**Flow**](https://flow.neos.io/) : PHP web application framework focussed on Domain-Driven Design and clean code.
 	+ [**FuelPHP**](https://fuelphp.com/) : a fast, simple and flexible PHP 5.4+ framework, born from the best ideas of other frameworks, with a fresh start!
+	+ [**Froq**](http://froqframework.com/) : Hassle-free PHP framework.
 + **G**
 	+ [**GetSimple**](http://get-simple.info/) : The Simplest Content Management System. Ever.
 	+ [**GlowyPHP**](https://awilum.github.io/glowyphp/) : A set of decoupled and reusable PHP building blocks for kickass Web Applications
@@ -109,9 +110,10 @@ In alphabetical order.
 + **V**
 	+ [**Vanilla**](https://github.com/vanilla/vanilla) : Vanilla was born out of the desire to create flexible, customizable, and downright entertaining community solutions.
 + **W**
-	+ [**Wordpress**](https://wordpress.org/) : WordPress is open source software you can use to create a beautiful website, blog, or app.
-	+ [**Windwalker**](https://windwalker.io) : A PHP Rapid Application Development Framework
 	+ [**Wave Framework**](https://github.com/wave-framework/wave.git) : Wave is a lightweight MVC framework written in PHP.
+	+ [**Windwalker**](https://windwalker.io) : A PHP Rapid Application Development Framework
+	+ [**Webby**](https://webby.sylynder.com/) : A "lego-like" PHP framework for building Simple Applications
+	+ [**Wordpress**](https://wordpress.org/) : WordPress is open source software you can use to create a beautiful website, blog, or app.
 + **X**
 	+ [**X framework**](https://framework-x.org/) : Simple and fast PHP micro framework. Async made easy.
 + **Y**
